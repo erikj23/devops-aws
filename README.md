@@ -1,6 +1,6 @@
 # devops-aws
 
-When deployed, the website should show visual map of the architecture along with golden rule metrics. It should be able to be cloned by anyone, with minimal setup be up and running.
+When deployed, the website should show visual map of the architecture along with golden rule metrics. It should be able to be cloned by anyone, and with minimal setup, be up and running.
 
 ## languages used
 - python
