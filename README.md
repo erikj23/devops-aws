@@ -10,9 +10,37 @@ When deployed, the website should show visual map of the architecture along with
 ## operating system
 - centos
 
-## will require a web frontend
-### components
-- firewall
-- caching server
-- load balancer
-- nginx
+## requirements
+### web frontend
+#### components
+- [] firewall
+- [] caching server
+- [] load balancer
+- [] nginx
+
+### service mesh
+- [] consul
+
+### container
+- [] docker
+
+### orchestration
+- [] k8s
+
+### deployment
+- [] terraform
+
+### configuration
+- [] ansible
+
+### ci/cd
+- [] github actions
+
+### infra monitoring
+- [] grafana
+
+### app monitoring
+- [] jaeger
+
+### logs
+- [] elastic stack
