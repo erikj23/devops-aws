@@ -11,6 +11,10 @@ When deployed, the website should show visual map of the architecture along with
 - centos
 
 ## requirements
+- [ ] not implemented
+- [x] partially implemented
+- [x] ~complete~
+
 ### web frontend
 #### components
 - [ ] firewall
