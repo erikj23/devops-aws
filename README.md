@@ -13,34 +13,34 @@ When deployed, the website should show visual map of the architecture along with
 ## requirements
 ### web frontend
 #### components
-- [] firewall
-- [] caching server
-- [] load balancer
-- [] nginx
+- [ ] firewall
+- [ ] caching server
+- [ ] load balancer
+- [ ] nginx
 
 ### service mesh
-- [] consul
+- [ ] consul
 
 ### container
-- [] docker
+- [ ] docker
 
 ### orchestration
-- [] k8s
+- [ ] k8s
 
 ### deployment
-- [] terraform
+- [ ] terraform
 
 ### configuration
-- [] ansible
+- [ ] ansible
 
 ### ci/cd
-- [] github actions
+- [ ] github actions
 
 ### infra monitoring
-- [] grafana
+- [ ] grafana
 
 ### app monitoring
-- [] jaeger
+- [ ] jaeger
 
 ### logs
-- [] elastic stack
+- [ ] elastic stack
